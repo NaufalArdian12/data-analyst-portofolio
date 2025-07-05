@@ -18,5 +18,5 @@ Mini project ini bertujuan untuk menganalisis data penjualan harian toko kue gun
 
 ## 📁 File
 - `data_penjualan_toko_kue.csv`: Dataset simulasi
-- `Analisis_Penjualan_Toko_Kue.ipynb`: Notebook analisis
+- `toko kue analyst.ipynb`: Notebook analisis
 
